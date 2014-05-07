@@ -1,6 +1,6 @@
 ## Plate Date
 
-This is a small C demo program.  
+This is a small C learning program.  
 Input the first letter of a post-2006 Missouri license plate.  
 It will output the registration month of that license.  
 Source: http://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Missouri#Month_coding  
